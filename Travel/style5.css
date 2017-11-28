@@ -1,0 +1,19 @@
+body {
+  background-color:aquamarine;
+color: black;
+}
+
+h1 {
+color: pink;
+text-align: center;
+
+font-family: 'Lobster', cursive;
+font-size: 24pt;
+}
+
+p{
+  color: black;
+  text-align: center;
+
+  font-family: 'Lobster', cursive;
+}

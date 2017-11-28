@@ -1,0 +1,30 @@
+#header {
+  width: 300px;
+  height:200px;
+  border: 1px solid green;
+  float: right;
+  margin: 40px;
+
+}
+#content{
+  width: 400px;
+  height: 200px;
+  border: 1px solid red;
+  margin: 80px;
+  float: middle;
+}
+#stay {
+  width: 310px;
+  height: 200;
+  border: 1px solid blue;
+  margin: 100px;
+  float: left;
+}
+
+#menu {
+  width: 310px;
+  height: 200;
+  border: 1px solid pink;
+  margin: 100px;
+  float: right;
+}
